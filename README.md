@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This Book-store web-application developed with Vue 3 in Vite.There have resuable commponent to each Section
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+
+# Developed by [kythonlk](https://kythonlk.com)
